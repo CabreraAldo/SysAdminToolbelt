@@ -1,0 +1,1 @@
+wmic nicconfig where (TcpipNetBiosOptions!=Null and TcpipBetbiosOptions!=2) call SetTcpipNetbios 2
