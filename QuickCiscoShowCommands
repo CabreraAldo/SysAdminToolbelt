@@ -1,0 +1,44 @@
+show running-config
+show startup-config
+show ip interface brief
+show ip interface
+show interface status
+show interface description
+show vlan
+show vlan brief
+show controller
+show interfaces
+show interfaces {interface number goes here}
+show port-security
+show port-security {interface}
+show sessions
+show users
+show ssh
+show crypto key mypubkey rsa
+show tech-support
+show process
+show flash
+show version
+show terminal
+show ip protocols
+show protocols
+show ip route
+show ip arp
+show arp
+show mac-address-table
+show cdp
+show cdp neighbors
+show cdp neighbors detail
+show cdp entry *
+show cdp entry {hostname}
+show ip dhcp binding
+show hosts
+show dhcp lease
+show debug
+show ip nat translations
+show ip nat statistics
+debug ip packet
+debug ppp authentication
+debug ip rip
+undebug all (u all)
+
