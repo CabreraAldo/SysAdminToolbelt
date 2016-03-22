@@ -1,0 +1,6 @@
+
+#Commands to get and check the Replication of SRM
+
+vim-cmd vmsvc/getallvms
+
+vim-cmd hbrsvc/vmreplica.getState (VMID #)
